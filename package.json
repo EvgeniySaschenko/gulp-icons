@@ -1,0 +1,18 @@
+{
+  "name": "gulp-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-svg-symbols": "^3.2.3",
+    "gulp.spritesmith": "^6.9.0"
+  }
+}
